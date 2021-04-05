@@ -9,7 +9,7 @@ int id_i=0,id_c=0,w=0;
 
 void print_head()
 {
-    printf("   Student Record and Result");
+    printf("   School");
     printf("\n      Management System");
     printf("\n             of");
     printf("\n       ABC High School");
